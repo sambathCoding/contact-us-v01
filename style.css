@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+p{
+  padding: 0;
+  margin: 0;
+}
+html,body{
+  background-color:rgb(92, 188, 252) ;
+  display: grid;
+  height: 100%;
+  place-items: center;
+  color: rgb(56, 86, 255);
+}
